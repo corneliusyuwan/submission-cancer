@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-yuwancornelius",
+  "private_key_id": "59c34d0e5da140e6f47f49f071679fed515eda37",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNshGFgV5aE9Ae\nypAPk/JxToeiS5876uucEKIvDGUjRLNSdFgVVQ9h2hrfpjn17E2nZYHJrdjTtedJ\nrsVv7ZOyM2zze+9KSxsfSAulhwPKbVQ3cul4RzJV0q7LVUfjy5MQ8cl2V4SUhgnG\nlf8ghM7njuo8Qjcg3LOCELbv/wX59ZONpMjdEnpor0dUFGw7DojjJ9/3a0Ff+1ZD\n8Wu5YCqg02sybC0F/jf/ctkHNJjiq4tEbnTBNHNACbWAoMH/+XIhDveNE9EreJMk\nM7Ox5wa3Y3N4IWtEsZ8KS5YJ50SRSGsztB66Nkwop8ts4P0fQPWlYFjV/gkgw1uC\nQxovzFSxAgMBAAECggEABHk4AfWc4QQDa6kDgjA5NotC/kXLYzLmMAMpWNE54Z8K\n0Jsyx3d9rbbP7O9lPS7IB1EJBiMplxyimKbUOM2Dn914FBFM5Gpu3wK6zJ07qQ9Q\nxKIzV0wimUzbQ/UxSqAsvRKKG3CWs8F4xNSyK1GSG6V/PQNiZizAm258QQrUhSGu\n9zQ9eSvRQHUUd3aovUmZYXMxEGMFKNJAomLhBPypFrbnp3a2cYtsXcNlDb5K/0BJ\noyy9qNzNMG3+JQa21QV7BidPkx1dqhz/8sbm6vL6Dz1HbmrtGTwjJX8qQu7K9nmV\npIPoOylzKhnxsmeevlrEO3zBFg3k4shvIWkyTAwD4QKBgQDwxWHZ0VUt7rifPYrF\nu487sDBC4Fmc8FAvlgxxs8c9DHHKyiQLTll/dH2wvyKB4wo8uKXwkDnqmFaIM7wD\ntR7hvYWyUHob+hHTe/YjpNgun5aFfZ+f22esv+UwCuJGepOMSeiJV6KC/aXm97nV\nJkEWyaP3aoESfkU3GoEXQVJ40QKBgQDatLyh5Z8GoFFlRtGjL1G9g4JcEYrCIkuH\nMdC+Gefl2F1ia7IhHCAVd/NiBhG1u2ImLJyqS4AhuDmZ+7lb/glx+hzNItZMYhoq\n735sR363i3bpKT4LjEU4JV3r7wwEHRi8L42vqbzS+zBylBnk/nbsyeO5beqafFAn\nu8SIlbcV4QKBgQCAoaM+YJT2XjRqdtGeBC9ovx95iyy1KLpeQfbSBC8skWp14frR\nw4ETE+RWujawV+DPQgL9e8BFci/AworvHCOsjLlR46bpLXe6md6NenM4rXAYT14p\nZGmGJFtIiHgNGU2cxJukTJp5CxRISg8RLkfV6dJcy5y7iZRm9RUEnJR4EQKBgFEZ\nYDFwom2kmUpC3o3yiA8MaxSU9K1UZkl1sYAsvw8+EjLi2KTqdwM+/aNFuN944sZh\nGJ8VbCgU1ldBPtTb+MipBHEVD/43CpkNQgYI5PZO4wNG5dkGZMyTHqbUd9I2r+to\nftO6z2g0+Rwjyw5dReA8ZRNnrO0oV9jECfbT/ZZBAoGBAO2RuJpd0KAn4+vUKVDl\nTyEnE1L4ZjHPXmOy3njQtzgTTRqr+6CYgzT923/y9F/YxAOd48KPLhMtdUP6ruJ1\nc8MOraMSju/nHGqs8f2GjXl5Iy17btqLsYDP2G8TIx2kPoL4bZxUFoIWkdMNQXOw\npzka9blX7SNko4BIf1K3ODFM\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestore-access@submissionmlgc-yuwancornelius.iam.gserviceaccount.com",
+  "client_id": "118089582620098804835",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestore-access%40submissionmlgc-yuwancornelius.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
